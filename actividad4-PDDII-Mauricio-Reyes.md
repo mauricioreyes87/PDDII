@@ -16,7 +16,7 @@ Los datos para este informe fueron extraídos del informe “Terremotos próximo
 
 En los datos del Instituto Geográfico Nacional ( figura 1) se pudieron corroborar 30 sismos de magnitudes entre 4,6 y 8,0;  320 sismos con magnitudes entre 3,0 y 4,5; y 3 sismos  con magnitudes entre 1,6 y 2,9. Eventos que preocupan a la comunidad científica y que mantienen en vilo a población de la isla.
 
-*Figura 1. Terremotos en La Palma al 9 de diciembre de 2021*
+*Figura 1. Terremotos en La Palma al 9 de diciembre de 2021 [Link](https://datawrapper.dwcdn.net/8QKpY/1/)*
 
 [![Fotografía del Volcán Cumbre Vieja](https://github.com/mauricioreyes87/docs/blob/main/img/8QKpY-total-de-sismos-en-isla-palma-volc-n-cumbre-vieja.png?raw=true)]()
 
