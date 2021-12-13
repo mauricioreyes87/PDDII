@@ -16,17 +16,17 @@ Los datos para este informe fueron extraídos del informe “Terremotos próximo
 
 En los datos del Instituto Geográfico Nacional ( figura 1) se pudieron corroborar 30 sismos de magnitudes entre 4,6 y 8,0;  320 sismos con magnitudes entre 3,0 y 4,5; y 3 sismos  con magnitudes entre 1,6 y 2,9. Eventos que preocupan a la comunidad científica y que mantienen en vilo a población de la isla.
 
-*Figura 1. Terremotos en La Palma al 9 de diciembre de 2021 [Link](https://datawrapper.dwcdn.net/8QKpY/1/)*
+*[Figura 1. Terremotos en La Palma al 9 de diciembre de 2021](https://datawrapper.dwcdn.net/8QKpY/1/)*
 
 [![Fotografía del Volcán Cumbre Vieja](https://github.com/mauricioreyes87/docs/blob/main/img/8QKpY-total-de-sismos-en-isla-palma-volc-n-cumbre-vieja.png?raw=true)]()
 
-*Figura 2. Mapa de Terremotos en el Área del volcán de La Palma (Cumbre Vieja)*
+*[Figura 2. Mapa de Terremotos en el Área del volcán de La Palma (Cumbre Vieja)](https://datawrapper.dwcdn.net/asrL0/2/)*
  
 [![Fotografía del Volcán Cumbre Vieja](https://github.com/mauricioreyes87/docs/blob/main/img/asrL0-sismos-en-isla-palma-volc-n-cumbre-vieja-2021.png?raw=true)]()
 
 La distribución de los lugares de epicentro evidencia una concentración en un área poligonal menor a 49,2 km² en la frontera de la región de Villa de Mazo, Fuencaliente de la Palma y El paso. Aconteciendo así 353 sismos en el 6,95 % de la superficie de la isla (Figura 3.). Isla Palma tiene una área total de 708 km².
 
-*Figura 3. Área area de concentración de eventos sísmicos  del volcán de La Palma (Cumbre Vieja)*
+*[Figura 3. Área area de concentración de eventos sísmicos  del volcán de La Palma (Cumbre Vieja)](https://www.google.com/maps/d/viewer?mid=1HqAUjyIBn0xcm_EDHRjK9DNu4LbWlVPk&ll=28.58075378317195%2C-17.84516920000001&z=13)*
 
 [![Fotografía del Volcán Cumbre Vieja](https://github.com/mauricioreyes87/docs/blob/main/img/act4-g9.png?raw=true)]()
  
@@ -79,4 +79,12 @@ Fernández, S. (2021, 27 octubre). ¿Por qué vuelve a abombarse la isla de La P
 Nacional, I. G. (2021). Información del Terremoto. Geoportal oficial del Instituto Geográfico Nacional de España. Recuperado 9 de diciembre de 2021, de https://www.ign.es/web/ign/portal/ultimos-terremotos/-/ultimos-terremotos/getAnio#
 
 Reyes, J. M. (2021, 31 octubre). Terremotos - Área del volcán Cumbre Vieja - 2021. Google My Maps. Recuperado 9 de diciembre de 2021, https://www.google.com/maps/d/viewer?mid=1HqAUjyIBn0xcm_EDHRjK9DNu4LbWlVPk&ll=28.58075378317195%2C-17.84516920000001&z=13
+
+# Proceso de Documentación
+
+## Selección fuente de información
+## Elección o creación de un conjunto de datos
+## Análisis y limpieza de datos con Open Refine.
+## Visualización de datos con Datawrapper.
+
 
