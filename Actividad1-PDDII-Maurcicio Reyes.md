@@ -28,7 +28,7 @@ El reportaje presenta semana a semana los datos en una animación de un mapa lin
 
 El estilo minimalista del mapa y de las convenciones permite ver de manera de mejor manera la distribución de los casos en la región metropolitana, hecho que impacta al lector. Pero, dicho estilo presenta algunos inconvenientes en la visualización de los casos. Ello debido al tamaño reducido del mapa, las convenciones y su distribución. Estos tres factores en conjuntos no  permiten distinguir entre los casos confirmados y sospechosos y la diferencia entre género.
 
-[![En Imagen presentación del apartes del reporje ](https://github.com/mauricioreyes87/docs/blob/main/img/act1-g3.png?raw=true)]()
+[![En Imagen presentación del apartes del reporje ](https://github.com/mauricioreyes87/docs/blob/main/img/act1-g4.png?raw=true)]()
 
 Entre algunos aportes que podrían hacerse al desarrollo de este proyecto de datos sería la inclusión de un módulo que permita realizar acciones  como el aumento de tamaño del mapa.
 
