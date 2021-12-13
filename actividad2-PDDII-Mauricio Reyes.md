@@ -1,3 +1,5 @@
+[![En Imagen Página de inicio del proyecto Rostros y Voces del Conflicto](https://github.com/mauricioreyes87/docs/blob/main/img/act2-g1.png?raw=true)]()
+
 # Rostros y voces del conflicto
 
 ## Análisis de Contenido
@@ -8,15 +10,21 @@ _Mauricio Reyes Rojas - Actividad Dirigida II - Periodismo de Datos II_
 
 En este análisis tendremos en cuenta los siguientes elementos:
 
+[![En imagen visualización de la URL - Enlace web al proyecto rostros y voces del conflicto](https://github.com/mauricioreyes87/docs/blob/main/img/act2-g2.png?raw=true)]()
+
 ### Conveniencia de la url
 
 La URL de la visualización tiene la estructura de un subdominio de la web elsalvador.com lo que indica la importancia del contenido realizado.
 
 ### Título del Artículo
 
+[![En imagen visualización del titulo y texto introductorio](https://github.com/mauricioreyes87/docs/blob/main/img/act2-g3.png?raw=true)]()
+
 El título del artículo es adecuado, resalta la temática escogida y ubica al lector en el tema a tratar. Mejoraría la estructura del título si se ubica el país y periodo de tiempo de los hechos.
 
 ### Estructura del Contenido
+
+[![En imagen visualización estructura de la web](https://github.com/mauricioreyes87/docs/blob/main/img/act2-g4.png?raw=true)]()
 
 El contenido se encuentra estructurado en una página de inicio, en la que se visualizan datos y contenidos. Además, contiene apartados para las categorías de testimonios y museo en el que se visualizan contenidos. Un apartado para los objetivos del proyecto y los hallazgos, para finalizar con la metodología y los datos usados para el proyecto.
 
@@ -25,6 +33,8 @@ El contenido se encuentra estructurado en una página de inicio, en la que se vi
 El proyecto fue pensado como una web, por tal motivo, la visualización no se adapta a la web, sino que se construyo toda una estructura adecuada para mostrar los contenidos.
 
 ### Diseño de la web
+
+[![En imagen visualización partes de la estructura web](https://github.com/mauricioreyes87/docs/blob/main/img/act2-g5.png?raw=true)]()
 
 El diseño de la web es adaptable a cualquier dispositivo, resta al lector al no saturar con mucha información o gráficos. La web de presentación permite un esbozo a las otras categorías y páginas dentro del subdominio, siendo una excelente puerta de entrada al los contenidos.
 
@@ -40,6 +50,8 @@ La web tiene problemas al momento de adecuarse al tamaño de la pantalla. En mó
 
 ### Tipofrafías
 
+[![En imagen visualización ejelos de tipografias usadas](https://github.com/mauricioreyes87/docs/blob/main/img/act2-g6.png?raw=true)]()
+
 La web emplea las tipografías Roboto y Merriweather. Los tamaños varían acorde la necesidad de los textos desde los 12,5px hasta los 34px.
 
 ### Elementos de la composición
@@ -47,6 +59,8 @@ La web emplea las tipografías Roboto y Merriweather. Los tamaños varían acord
 Formas, textos y líneas
 
 ### Herramientas elegidas
+
+[![En imagen visualización gráficos, usos de colores, formas y composiciones](https://github.com/mauricioreyes87/docs/blob/main/img/act2-g7.png?raw=true)]()
 
 En la visualización se usa Flourish para las tablas y gráficos SVG, y canvas para la construcción de mapas y gráficos.
 
