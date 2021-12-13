@@ -1,4 +1,4 @@
-[![En Imagen Preentación del proyecto Sigma Awards](https://github.com/mauricioreyes87/docs/blob/main/img/act1-g1.png?raw=true)]()
+[![En Imagen Presentación del proyecto Sigma Awards](https://github.com/mauricioreyes87/docs/blob/main/img/act1-g1.png?raw=true)]()
 
 #Análisis de visualización 
 
@@ -22,11 +22,13 @@ En el reportaje, La Tercera presenta datos basados en 60 informes epidemiológic
 
 Los 12.405 fallecidos por covid-19, fueron contabilizados por el Departamento de Estadísticas e Información de Salud (DEIS) en Santiago según el informe publicado el 16 de octubre de 2021, con cifras hasta el 15 del mismo mes.
 
-[![En Imagen Presentación del proyecto Sigma Awards](https://github.com/mauricioreyes87/docs/blob/main/img/act1-g3.png?raw=true)]()
+[![En Imagen presentación del apartes del reporje ](https://github.com/mauricioreyes87/docs/blob/main/img/act1-g3.png?raw=true)]()
 
 El reportaje presenta semana a semana los datos en una animación de un mapa lineal. En él se plasma la región metropolitana  de Santiago de Chile en la que se ubican los casos de fallecidos (Hombres y mujeres). También se destacan en las convenciones las muertes según la característica: confirmados o sospechosos.
 
 El estilo minimalista del mapa y de las convenciones permite ver de manera de mejor manera la distribución de los casos en la región metropolitana, hecho que impacta al lector. Pero, dicho estilo presenta algunos inconvenientes en la visualización de los casos. Ello debido al tamaño reducido del mapa, las convenciones y su distribución. Estos tres factores en conjuntos no  permiten distinguir entre los casos confirmados y sospechosos y la diferencia entre género.
+
+[![En Imagen presentación del apartes del reporje ](https://github.com/mauricioreyes87/docs/blob/main/img/act1-g3.png?raw=true)]()
 
 Entre algunos aportes que podrían hacerse al desarrollo de este proyecto de datos sería la inclusión de un módulo que permita realizar acciones  como el aumento de tamaño del mapa.
 
