@@ -1,6 +1,6 @@
-# ACTIVIDAD DIRIGIDA 1 - PERIODISMO DE DATOS II
+#Análisis de visualización 
 
-**Realizar un artículo con un mínimo de 500 palabras comentando la/s visualización/es que os hayan parecido más interesantes de 2021 y razonando las elecciones.**
+_Mauricio Reyes Rojas - Actividad Dirigida III - Periodismo de Datos II_
 
 ## *Criterios de Elección*
 
