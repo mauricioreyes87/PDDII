@@ -83,8 +83,32 @@ Reyes, J. M. (2021, 31 octubre). Terremotos - Área del volcán Cumbre Vieja - 2
 # Proceso de Documentación
 
 ## Selección fuente de información
+
+La información seleccionada se obtubo del Instituto Geográfico Nacional - Organismo Autónomo y Centro de Nacional de Información Geográfica el cual diariamente actualiza en su web (Nacional, 2021). los terremotos próximos significativos del último año. Estos terremotos se ubican en la peninsula iberica e Islas Canaria en los últimos 12 meses.
+
 ## Elección o creación de un conjunto de datos
-## Análisis y limpieza de datos con Open Refine.
+
+Los datos fueron obtenidos a traves de la web mediante la extensión de Mozilla - Table Capture, la cual reconoce las tablas dentro de una web y a partir de ellas es posible crear un archivo csv para su posterior análisis y limpieza.
+
+## Análisis y limpieza de datos con Open Refine
+
+Tras la obención de los datos segun la intencionalidad del proyectó obtener las siguentes variables del conjunto de datos:
+
+- Nombre del Evento: Variable compuesta por el Evento + Fecha
+- Latitud
+- Longitud
+- Magnitud
+- Profundidad
+- Localización
+
+Esta variables fueron obtenidas a traves de las siguentes acciones realizadas en OpenRefine
+
+1. 
+
+En un análisis de los datos se proyecto limitar el conjunto de datos solo a aquellos sismos que ocurieron en la Isla Palma
+
+Posterior a la obtención del archivo CSV, que se guardo bajo el nombre de datos-sismos-espa-a.csv en la hoja1(Datos obtenidos), se procedió a limpiar los datos 
+
 ## Visualización de datos con Datawrapper.
 
 
