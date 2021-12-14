@@ -92,7 +92,7 @@ Los datos fueron obtenidos a traves de la web mediante la extensión de Mozilla 
 
 ## Análisis y limpieza de datos con Open Refine
 
-Tras la obención de los datos segun la intencionalidad del proyectó obtener las siguentes variables del conjunto de datos:
+Tras la obención de los datos según la intencionalidad del proyectó se propuso obtener las siguentes variables del conjunto de datos:
 
 - Nombre del Evento: Variable compuesta por el Evento + Fecha
 - Latitud
@@ -103,11 +103,21 @@ Tras la obención de los datos segun la intencionalidad del proyectó obtener la
 
 Esta variables fueron obtenidas a traves de las siguentes acciones realizadas en OpenRefine
 
-1. 
+1.
+2.
+3.
+4.
+5.
+6.
 
-En un análisis de los datos se proyecto limitar el conjunto de datos solo a aquellos sismos que ocurieron en la Isla Palma
+En un análisis de los datos se proyecto tambien limitar el conjunto de datos solo a aquellos sismos que ocurieron en la Isla Palma para focalizar el desarrollo de estos eventos. Este procedimiento se realizó a través de EXCEL con el uso de funsiones para la clasificación por localización y la clasificación por rangos.
 
-Posterior a la obtención del archivo CSV, que se guardo bajo el nombre de datos-sismos-espa-a.csv en la hoja1(Datos obtenidos), se procedió a limpiar los datos 
+Luego de esta etapa se procedio a agrupar los sismos segun su magnitud, para ellos se diseñaron 4 rangos (Rango1 0 - 1,5; Rango2 1,6 - 2,9; Rango3 3 - 4,5; Rango4 4,6 - 6) estos rangos permitieron clasificar los eventos para su visualización. Esta clasificación por rangos permitió desarrollar los graficos de manera ordenada.
+
+En EXCEL tambien se realizarón algunas operaciones basicas que permitieron encontrar otros datos relevantes para el proyecto como:
+
+- Media de magnitud
+- Media de profundidad
 
 ## Visualización de datos con Datawrapper.
 
