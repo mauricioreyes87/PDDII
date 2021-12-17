@@ -151,7 +151,7 @@ En EXCEL tambien se realizarón algunas operaciones basicas que permitieron enco
 
 ## Visualización de datos con Datawrapper
 
-[![Fotografía del Volcán Cumbre Vieja](https://github.com/mauricioreyes87/docs/blob/main/img/act4-gra1-1.png?raw=true)]()
+[![Fotografía del Volcán Cumbre Vieja](https://github.com/mauricioreyes87/docs/blob/main/img/act4-graf1-1.png?raw=true)]()
 
 Surtido la etapa de la elección y creación del conjuto de datos, el análisis y limpieza de los datos, se procedió a la carga de los conjuntos de datos para la realización de la visualización. La prmimera visualización planteada recoge los rangos establecidos y su conjunto de eventos para ubicarlos en un mapa. a ubicación de los puntos se realizo mediente la plataforma http://geojson.io debido a inconvenientes en el tratamiento de datos en archivos CSV.
 
@@ -159,11 +159,11 @@ Surtido la etapa de la elección y creación del conjuto de datos, el análisis 
 
 La Plataforma Geojson convertió los datos de los archivos CVS en códigos Json, para su posterior carga en Datawrapper. En este proceso se presentaron dificultades por la cantidad de datos que la plataforma permite ingresar, ello límitó la carga de la totalidad del conjunto de datos. Para visualizar todos los datos se propuso tambien trabajar en Google Maps donde a traves del CSV se realizó una visualización con el conjunto total.
 
-[![Fotografía del Volcán Cumbre Vieja](https://github.com/mauricioreyes87/docs/blob/main/img/act4-gra1-3.png?raw=true)]()
+[![Fotografía del Volcán Cumbre Vieja](https://github.com/mauricioreyes87/docs/blob/main/img/act4-graf1-3.png?raw=true)]()
 
 Posterior a la carga de datos, se mdodificaron los marcadores y se ajustaron para que el gráfico puediera ser leido y comprendido por el usuario, además de agregaron tres capas de provincia para ubicar de mejor manera el lugar donde se concnetra la actividad sismica.
 
-[![Fotografía del Volcán Cumbre Vieja](https://github.com/mauricioreyes87/docs/blob/main/img/act4-gra1-4.png?raw=true)]()
+[![Fotografía del Volcán Cumbre Vieja](https://github.com/mauricioreyes87/docs/blob/main/img/act4-graf1-4.png?raw=true)]()
 
 En el diseño de mapa se activaron y desactivaron opciones para crear coherencia y unanimidad de la visualización, en el mapa se usó y agregó: 
 
@@ -174,7 +174,7 @@ En el diseño de mapa se activaron y desactivaron opciones para crear coherencia
 5. Resaltado de regiones
 6. Integración de mapa mundial
 
-[![Fotografía del Volcán Cumbre Vieja](https://github.com/mauricioreyes87/docs/blob/main/img/act4-gra1-5.png?raw=true)]()
+[![Fotografía del Volcán Cumbre Vieja](https://github.com/mauricioreyes87/docs/blob/main/img/act4-graf1-5.png?raw=true)]()
 
 En anotaciones se agregó: 
 1. Titulo
@@ -183,11 +183,11 @@ En anotaciones se agregó:
 4. Autor de gráfico
 5. Adición de leyendas de mapa
 
-[![Fotografía del Volcán Cumbre Vieja](https://github.com/mauricioreyes87/docs/blob/main/img/act4-gra1-6.png?raw=true)]()
+[![Fotografía del Volcán Cumbre Vieja](https://github.com/mauricioreyes87/docs/blob/main/img/act4-graf1-6.png?raw=true)]()
 
 Además se agregaron en diseño otras opciones para una correcta visualización del gráfico, la descarga por parte de terceros y la inserción en diversas plataformas web.
 
-[![Fotografía del Volcán Cumbre Vieja](https://github.com/mauricioreyes87/docs/blob/main/img/act4-gra1-7.png?raw=true)]()
+[![Fotografía del Volcán Cumbre Vieja](https://github.com/mauricioreyes87/docs/blob/main/img/act4-graf1-7.png?raw=true)]()
 
 Finalizando con la publicación del gráfico.
 
