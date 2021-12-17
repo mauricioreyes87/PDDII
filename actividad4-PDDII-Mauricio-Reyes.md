@@ -174,7 +174,7 @@ En el diseño de mapa se activaron y desactivaron opciones para crear coherencia
 5. Resaltado de regiones
 6. Integración de mapa mundial
 
-[![Fotografía del Volcán Cumbre Vieja](https://github.com/mauricioreyes87/docs/blob/main/img/act4-graf1-5.png?raw=true)]()
+[![Fotografía del Volcán Cumbre Vieja](https://github.com/mauricioreyes87/docs/blob/main/img/act4-graf1-6.png?raw=true)]()
 
 En anotaciones se agregó: 
 1. Titulo
@@ -183,7 +183,7 @@ En anotaciones se agregó:
 4. Autor de gráfico
 5. Adición de leyendas de mapa
 
-[![Fotografía del Volcán Cumbre Vieja](https://github.com/mauricioreyes87/docs/blob/main/img/act4-graf1-6.png?raw=true)]()
+[![Fotografía del Volcán Cumbre Vieja](https://github.com/mauricioreyes87/docs/blob/main/img/act4-graf1-5.png?raw=true)]()
 
 Además se agregaron en diseño otras opciones para una correcta visualización del gráfico, la descarga por parte de terceros y la inserción en diversas plataformas web.
 
