@@ -195,9 +195,15 @@ Finalizando con la publicación del gráfico.
 
 ### Visualización 2.  Total de sismos en Isla Palma - volcán Cumbre Vieja - Distribución de sismos por categorías según magnitud del evento telúrico 
 
+#### Proceso de carga de datos
+
 [![Fotografía del Volcán Cumbre Vieja](https://github.com/mauricioreyes87/docs/blob/main/img/act4-graf2-1.png?raw=true)]()
 
+#### Verificar y describir
+
 [![Fotografía del Volcán Cumbre Vieja](https://github.com/mauricioreyes87/docs/blob/main/img/act4-graf2-2.png?raw=true)]()
+
+#### Visualizar
 
 [![Fotografía del Volcán Cumbre Vieja](https://github.com/mauricioreyes87/docs/blob/main/img/act4-graf2-3.png?raw=true)]()
 
@@ -206,5 +212,7 @@ Finalizando con la publicación del gráfico.
 [![Fotografía del Volcán Cumbre Vieja](https://github.com/mauricioreyes87/docs/blob/main/img/act4-graf2-5.png?raw=true)]()
 
 [![Fotografía del Volcán Cumbre Vieja](https://github.com/mauricioreyes87/docs/blob/main/img/act4-graf2-6.png?raw=true)]()
+
+#### Publicar e integrar
 
 [![Fotografía del Volcán Cumbre Vieja](https://github.com/mauricioreyes87/docs/blob/main/img/act4-graf2-7.png?raw=true)]()
