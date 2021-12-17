@@ -151,6 +151,8 @@ En EXCEL tambien se realizarón algunas operaciones basicas que permitieron enco
 
 ## Visualización de datos con Datawrapper
 
+### Gráfico1
+
 [![Fotografía del Volcán Cumbre Vieja](https://github.com/mauricioreyes87/docs/blob/main/img/act4-graf1-3.png?raw=true)]()
 
 Surtido la etapa de la elección y creación del conjuto de datos, el análisis y limpieza de los datos, se procedió a la carga de los conjuntos de datos para la realización de la visualización. La prmimera visualización planteada recoge los rangos establecidos y su conjunto de eventos para ubicarlos en un mapa. a ubicación de los puntos se realizo mediente la plataforma http://geojson.io debido a inconvenientes en el tratamiento de datos en archivos CSV.
@@ -161,11 +163,7 @@ La Plataforma Geojson convertió los datos de los archivos CVS en códigos Json,
 
 [![Fotografía del Volcán Cumbre Vieja](https://github.com/mauricioreyes87/docs/blob/main/img/act4-graf1-2.png?raw=true)]()
 
-Posterior a la carga de datos, se mdodificaron los marcadores y se ajustaron para que el gráfico puediera ser leido y comprendido por el usuario, además de agregaron tres capas de provincia para ubicar de mejor manera el lugar donde se concnetra la actividad sismica.
-
-
-
-En el diseño de mapa se activaron y desactivaron opciones para crear coherencia y unanimidad de la visualización, en el mapa se usó y agregó: 
+Posterior a la carga de datos, se mdodificaron los marcadores y se ajustaron para que el gráfico puediera ser leido y comprendido por el usuario, además de agregaron tres capas de provincia para ubicar de mejor manera el lugar donde se concnetra la actividad sismica. En el diseño de mapa se activaron y desactivaron opciones para crear coherencia y unanimidad de la visualización, en el mapa se usó y agregó: 
 
 [![Fotografía del Volcán Cumbre Vieja](https://github.com/mauricioreyes87/docs/blob/main/img/act4-graf1-7.png?raw=true)]()
 
@@ -194,5 +192,7 @@ Además se agregaron en diseño otras opciones para una correcta visualización 
 Finalizando con la publicación del gráfico.
 
 [![Fotografía del Volcán Cumbre Vieja](https://github.com/mauricioreyes87/docs/blob/main/img/act4-graf1-4.png?raw=true)]()
+
+### Gráfico2
 
 
