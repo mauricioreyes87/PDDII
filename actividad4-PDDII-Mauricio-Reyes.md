@@ -205,13 +205,15 @@ Finalizando con la publicación del gráfico.
 
 #### Visualizar
 
+-Elección del tipo de gráfico
+
+[![Fotografía del Volcán Cumbre Vieja](https://github.com/mauricioreyes87/docs/blob/main/img/act4-graf2-5.png?raw=true)]()
+
 [![Fotografía del Volcán Cumbre Vieja](https://github.com/mauricioreyes87/docs/blob/main/img/act4-graf2-2.png?raw=true)]()
 
 [![Fotografía del Volcán Cumbre Vieja](https://github.com/mauricioreyes87/docs/blob/main/img/act4-graf2-3.png?raw=true)]()
 
 [![Fotografía del Volcán Cumbre Vieja](https://github.com/mauricioreyes87/docs/blob/main/img/act4-graf2-4.png?raw=true)]()
-
-[![Fotografía del Volcán Cumbre Vieja](https://github.com/mauricioreyes87/docs/blob/main/img/act4-graf2-5.png?raw=true)]()
 
 [![Fotografía del Volcán Cumbre Vieja](https://github.com/mauricioreyes87/docs/blob/main/img/act4-graf2-6.png?raw=true)]()
 
