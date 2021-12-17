@@ -151,11 +151,11 @@ En EXCEL tambien se realizarón algunas operaciones basicas que permitieron enco
 
 ## Visualización de datos con Datawrapper
 
-[![Fotografía del Volcán Cumbre Vieja](https://github.com/mauricioreyes87/docs/blob/main/img/act4-graf1-1.png?raw=true)]()
+[![Fotografía del Volcán Cumbre Vieja](https://github.com/mauricioreyes87/docs/blob/main/img/act4-graf1-3.png?raw=true)]()
 
 Surtido la etapa de la elección y creación del conjuto de datos, el análisis y limpieza de los datos, se procedió a la carga de los conjuntos de datos para la realización de la visualización. La prmimera visualización planteada recoge los rangos establecidos y su conjunto de eventos para ubicarlos en un mapa. a ubicación de los puntos se realizo mediente la plataforma http://geojson.io debido a inconvenientes en el tratamiento de datos en archivos CSV.
 
-[![Fotografía del Volcán Cumbre Vieja](https://github.com/mauricioreyes87/docs/blob/main/img/act4-graf1-3.png?raw=true)]()
+[![Fotografía del Volcán Cumbre Vieja](https://github.com/mauricioreyes87/docs/blob/main/img/act4-graf1-1.png?raw=true)]()
 
 La Plataforma Geojson convertió los datos de los archivos CVS en códigos Json, para su posterior carga en Datawrapper. En este proceso se presentaron dificultades por la cantidad de datos que la plataforma permite ingresar, ello límitó la carga de la totalidad del conjunto de datos. Para visualizar todos los datos se propuso tambien trabajar en Google Maps donde a traves del CSV se realizó una visualización con el conjunto total.
 
