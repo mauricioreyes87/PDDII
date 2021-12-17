@@ -113,18 +113,20 @@ Esta variables fueron obtenidas a traves de las siguentes acciones realizadas en
 [![Fotografía del Volcán Cumbre Vieja](https://github.com/mauricioreyes87/docs/blob/main/img/act4-cargadatos.png?raw=true)]()
 2. Eliminación de columnas no priorizadas
 [![Fotografía del Volcán Cumbre Vieja](https://github.com/mauricioreyes87/docs/blob/main/img/act4-eliminacion.png?raw=true)]()
-3.
-[![Fotografía del Volcán Cumbre Vieja](https://github.com/mauricioreyes87/docs/blob/main/img/act4-cvs.png?raw=true)]()
-4.
-[![Fotografía del Volcán Cumbre Vieja](https://github.com/mauricioreyes87/docs/blob/main/img/act4-cvs.png?raw=true)]()
-5.
-[![Fotografía del Volcán Cumbre Vieja](https://github.com/mauricioreyes87/docs/blob/main/img/act4-cvs.png?raw=true)]()
-6.
-[![Fotografía del Volcán Cumbre Vieja](https://github.com/mauricioreyes87/docs/blob/main/img/act4-cvs.png?raw=true)]()
-7.
-[![Fotografía del Volcán Cumbre Vieja](https://github.com/mauricioreyes87/docs/blob/main/img/act4-cvs.png?raw=true)]()
-
-
+3. Separación de la columna Fecha en dos columnas usando los carácteres 00
+[![Fotografía del Volcán Cumbre Vieja](https://github.com/mauricioreyes87/docs/blob/main/img/act4-open1.png?raw=true)]()
+4. Separador de la columna Fecha2 en dos columnas usando el caracter T
+[![Fotografía del Volcán Cumbre Vieja](https://github.com/mauricioreyes87/docs/blob/main/img/act4-open2.png?raw=true)]()
+5. Eliminación de la columna Fecha2 1 y Fecha
+[![Fotografía del Volcán Cumbre Vieja](https://github.com/mauricioreyes87/docs/blob/main/img/act4-open3.png?raw=true)]()
+6.Uninión de la columna Fecha1 y la columna Fecha2 1
+[![Fotografía del Volcán Cumbre Vieja](https://github.com/mauricioreyes87/docs/blob/main/img/act4-open4.png?raw=true)]()
+7.Eliminación de la Columna Fecha2 2
+[![Fotografía del Volcán Cumbre Vieja](https://github.com/mauricioreyes87/docs/blob/main/img/act4-open5.png?raw=true)]()
+8. Unión de las columnas Fecha1 y Evento
+[![Fotografía del Volcán Cumbre Vieja](https://github.com/mauricioreyes87/docs/blob/main/img/act4-open6.png?raw=true)]()
+9. Eliminación de Fecha1
+[![Fotografía del Volcán Cumbre Vieja](https://github.com/mauricioreyes87/docs/blob/main/img/act4-open7.png?raw=true)]()
 
 En un análisis de los datos se proyecto tambien limitar el conjunto de datos solo a aquellos sismos que ocurieron en la Isla Palma para focalizar el desarrollo de estos eventos. Este procedimiento se realizó a través de EXCEL con el uso de funsiones para la clasificación por localización y la clasificación por rangos.
 
