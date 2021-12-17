@@ -163,9 +163,11 @@ La Plataforma Geojson convertió los datos de los archivos CVS en códigos Json,
 
 Posterior a la carga de datos, se mdodificaron los marcadores y se ajustaron para que el gráfico puediera ser leido y comprendido por el usuario, además de agregaron tres capas de provincia para ubicar de mejor manera el lugar donde se concnetra la actividad sismica.
 
-[![Fotografía del Volcán Cumbre Vieja](https://github.com/mauricioreyes87/docs/blob/main/img/act4-graf1-4.png?raw=true)]()
+
 
 En el diseño de mapa se activaron y desactivaron opciones para crear coherencia y unanimidad de la visualización, en el mapa se usó y agregó: 
+
+[![Fotografía del Volcán Cumbre Vieja](https://github.com/mauricioreyes87/docs/blob/main/img/act4-graf1-7.png?raw=true)]()
 
 1. Mapa maritimo, el cual permitia una mejor compresión de los marcadores ingresados en el mapa.
 2. Estilos de mapa.
@@ -187,8 +189,10 @@ En anotaciones se agregó:
 
 Además se agregaron en diseño otras opciones para una correcta visualización del gráfico, la descarga por parte de terceros y la inserción en diversas plataformas web.
 
-[![Fotografía del Volcán Cumbre Vieja](https://github.com/mauricioreyes87/docs/blob/main/img/act4-graf1-7.png?raw=true)]()
+[![Fotografía del Volcán Cumbre Vieja](https://github.com/mauricioreyes87/docs/blob/main/img/act4-graf1-8.png?raw=true)]()
 
 Finalizando con la publicación del gráfico.
+
+[![Fotografía del Volcán Cumbre Vieja](https://github.com/mauricioreyes87/docs/blob/main/img/act4-graf1-4.png?raw=true)]()
 
 
