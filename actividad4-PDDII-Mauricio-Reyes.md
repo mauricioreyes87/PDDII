@@ -187,7 +187,7 @@ En anotaciones se agregó:
 
 Además se agregaron en diseño otras opciones para una correcta visualización del gráfico, la descarga por parte de terceros y la inserción en diversas plataformas web.
 
-[![Fotografía del Volcán Cumbre Vieja](https://github.com/mauricioreyes87/docs/blob/main/img/act4-graf1-8.png?raw=true)]()
+[![Fotografía del Volcán Cumbre Vieja](https://github.com/mauricioreyes87/docs/blob/main/img/act4-graf4-8.png?raw=true)]()
 
 Finalizando con la publicación del gráfico.
 
