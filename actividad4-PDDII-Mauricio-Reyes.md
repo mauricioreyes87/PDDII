@@ -211,19 +211,19 @@ Finalizando con la publicación del gráfico.
 
 -Mejorar
 
-[![Fotografía del Volcán Cumbre Vieja](https://github.com/mauricioreyes87/docs/blob/main/img/act4-graf2-2.png?raw=true)]()
+[![Fotografía del Volcán Cumbre Vieja](https://github.com/mauricioreyes87/docs/blob/main/img/act4-graf2-4.png?raw=true)]()
 
-[![Fotografía del Volcán Cumbre Vieja](https://github.com/mauricioreyes87/docs/blob/main/img/act4-graf2-3.png?raw=true)]()
+[![Fotografía del Volcán Cumbre Vieja](https://github.com/mauricioreyes87/docs/blob/main/img/act4-graf2-2.png?raw=true)]()
 
 [![Fotografía del Volcán Cumbre Vieja](https://github.com/mauricioreyes87/docs/blob/main/img/act4-graf2-7.png?raw=true)]()
 
 -Anotar
 
-[![Fotografía del Volcán Cumbre Vieja](https://github.com/mauricioreyes87/docs/blob/main/img/act4-graf2-4.png?raw=true)]()
+[![Fotografía del Volcán Cumbre Vieja](https://github.com/mauricioreyes87/docs/blob/main/img/act4-graf2-6.png?raw=true)]()
 
 -Diseño
 
-[![Fotografía del Volcán Cumbre Vieja](https://github.com/mauricioreyes87/docs/blob/main/img/act4-graf2-6.png?raw=true)]()
+
 
 #### Publicar e integrar
 
