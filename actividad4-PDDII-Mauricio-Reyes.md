@@ -128,14 +128,24 @@ Esta variables fueron obtenidas a traves de las siguentes acciones realizadas en
 9. Eliminación de Fecha1
 [![Fotografía del Volcán Cumbre Vieja](https://github.com/mauricioreyes87/docs/blob/main/img/act4-open7.png?raw=true)]()
 
-En un análisis de los datos se proyecto tambien limitar el conjunto de datos solo a aquellos sismos que ocurieron en la Isla Palma para focalizar el desarrollo de estos eventos. Este procedimiento se realizó a través de EXCEL con el uso de funsiones para la clasificación por localización y la clasificación por rangos.
+Luego de concluir estas operaciones procedimos a exportar los datos y cargarlos en EXCEL, el análisis de los datos proyecto limitar el conjunto de datos solo a aquellos sismos que ocurieron en la Isla Palma para focalizar el desarrollo de los eventos. Este procedimiento se realizó a través de EXCEL con el uso de la formula =SI(O(Y(B2>28; B2<29); Y(C2>-17; C2<-16));"ISLA PALMA"; "FUERA RANGO" . La Formula ubica los eventos en la Isla Palma a traves de la comparación de latitud y longitud, los eventos fuera del rango son categorizados como FUERA RANGO.
 
-Luego de esta etapa se procedio a agrupar los sismos segun su magnitud, para ellos se diseñaron 4 rangos (Rango1 0 - 1,5; Rango2 1,6 - 2,9; Rango3 3 - 4,5; Rango4 4,6 - 6) estos rangos permitieron clasificar los eventos para su visualización. Esta clasificación por rangos permitió desarrollar los graficos de manera ordenada.
+[![Fotografía del Volcán Cumbre Vieja](https://github.com/mauricioreyes87/docs/blob/main/img/act4-foco.png?raw=true)]()
+
+En EXCEL tambien se categorizaron los eventos por Rangos, ello mediante la siguente fórmula =BUSCAR(E2;B$436:C$439;D$436:D$439) la cual busca dentro de un conjunto de datos establecidos las coincidencias dentro de los rangos. Los rangos establecidos fueron: (Rango1 0 - 1,5; Rango2 1,6 - 2,9; Rango3 3 - 4,5; Rango4 4,6 - 6)
+
+[![Fotografía del Volcán Cumbre Vieja](https://github.com/mauricioreyes87/docs/blob/main/img/act4-rango.png?raw=true)]()
+
+Luego de esta etapa se procedio a crear una tabla dinamica de los sismos agrupados por rangos para mejorar la vista de los datos.
+
+[![Fotografía del Volcán Cumbre Vieja](https://github.com/mauricioreyes87/docs/blob/main/img/act4-tdrango.png?raw=true)]()
 
 En EXCEL tambien se realizarón algunas operaciones basicas que permitieron encontrar otros datos relevantes para el proyecto como:
 
 - Media de magnitud
 - Media de profundidad
+
+[![Fotografía del Volcán Cumbre Vieja](https://github.com/mauricioreyes87/docs/blob/main/img/act4-operaciones.png?raw=true)]()
 
 ## Visualización de datos con Datawrapper.
 
