@@ -201,9 +201,11 @@ Finalizando con la publicación del gráfico.
 
 #### Verificar y describir
 
-[![Fotografía del Volcán Cumbre Vieja](https://github.com/mauricioreyes87/docs/blob/main/img/act4-graf2-2.png?raw=true)]()
+[![Fotografía del Volcán Cumbre Vieja](https://github.com/mauricioreyes87/docs/blob/main/img/act4-graf4-8.png?raw=true)]()
 
 #### Visualizar
+
+[![Fotografía del Volcán Cumbre Vieja](https://github.com/mauricioreyes87/docs/blob/main/img/act4-graf2-2.png?raw=true)]()
 
 [![Fotografía del Volcán Cumbre Vieja](https://github.com/mauricioreyes87/docs/blob/main/img/act4-graf2-3.png?raw=true)]()
 
