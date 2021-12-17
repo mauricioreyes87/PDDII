@@ -134,7 +134,9 @@ Luego de concluir estas operaciones procedimos a exportar los datos y cargarlos 
 
 En EXCEL tambien se categorizaron los eventos por Rangos, ello mediante la siguente fórmula =BUSCAR(E2;B$436:C$439;D$436:D$439) la cual busca dentro de un conjunto de datos establecidos las coincidencias dentro de los rangos. Los rangos establecidos fueron: (Rango1 0 - 1,5; Rango2 1,6 - 2,9; Rango3 3 - 4,5; Rango4 4,6 - 6)
 
-[![Fotografía del Volcán Cumbre Vieja](https://github.com/mauricioreyes87/docs/blob/main/img/act4-rango.png?raw=true)]()
+[![Fotografía del Volcán Cumbre Vieja](https://github.com/mauricioreyes87/docs/blob/main/img/ac4-rango.png?raw=true)]()
+
+[![Fotografía del Volcán Cumbre Vieja](https://github.com/mauricioreyes87/docs/blob/main/img/act4-rango2.png?raw=true)]()
 
 Luego de esta etapa se procedio a crear una tabla dinamica de los sismos agrupados por rangos para mejorar la vista de los datos.
 
