@@ -225,4 +225,4 @@ Finalizando con la publicación del gráfico.
 
 #### Publicar e integrar
 
-[![Fotografía del Volcán Cumbre Vieja](https://github.com/mauricioreyes87/docs/blob/main/img/act4-graf5.png?raw=true)]()
+[![Fotografía del Volcán Cumbre Vieja](https://github.com/mauricioreyes87/docs/blob/main/img/act4-gra5.png?raw=true)]()
