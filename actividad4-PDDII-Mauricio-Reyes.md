@@ -151,7 +151,7 @@ En EXCEL tambien se realizarón algunas operaciones basicas que permitieron enco
 
 ## Visualización de datos con Datawrapper
 
-### Gráfico1
+### Visualización 1. Sismos en Isla Palma - volcán Cumbre Vieja 2021 - Recopilación de los eventos sísmicos en la Isla Palma - periodo enero 2021 - diciembre 2021 
 
 [![Fotografía del Volcán Cumbre Vieja](https://github.com/mauricioreyes87/docs/blob/main/img/act4-graf1-3.png?raw=true)]()
 
@@ -193,6 +193,6 @@ Finalizando con la publicación del gráfico.
 
 [![Fotografía del Volcán Cumbre Vieja](https://github.com/mauricioreyes87/docs/blob/main/img/act4-graf1-4.png?raw=true)]()
 
-### Gráfico2
+### Visualización 2.  Total de sismos en Isla Palma - volcán Cumbre Vieja - Distribución de sismos por categorías según magnitud del evento telúrico 
 
-
+[![Fotografía del Volcán Cumbre Vieja](https://github.com/mauricioreyes87/docs/blob/main/img/act4-graf1-4.png?raw=true)]()
