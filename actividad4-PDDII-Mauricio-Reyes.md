@@ -94,6 +94,8 @@ La información seleccionada se obtubo del Instituto Geográfico Nacional - Orga
 
 Los datos fueron obtenidos a traves de la web mediante la extensión de Mozilla - Table Capture, la cual reconoce las tablas dentro de una web y a partir de ellas es posible crear un archivo csv para su posterior análisis y limpieza.
 
+[![Fotografía del Volcán Cumbre Vieja](https://github.com/mauricioreyes87/docs/blob/main/img/act4-cvs.png?raw=true)]()
+
 ## Análisis y limpieza de datos con Open Refine
 
 Tras la obención de los datos según la intencionalidad del proyectó se propuso obtener las siguentes variables del conjunto de datos:
