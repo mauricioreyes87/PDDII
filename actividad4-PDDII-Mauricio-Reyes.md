@@ -109,12 +109,22 @@ Tras la obención de los datos según la intencionalidad del proyectó se propus
 
 Esta variables fueron obtenidas a traves de las siguentes acciones realizadas en OpenRefine
 
-1.
-2.
+1. Carga de datos - Open Refine 
+[![Fotografía del Volcán Cumbre Vieja](https://github.com/mauricioreyes87/docs/blob/main/img/act4-cargadatos.png?raw=true)]()
+2. Eliminación de columnas no priorizadas
+[![Fotografía del Volcán Cumbre Vieja](https://github.com/mauricioreyes87/docs/blob/main/img/act4-eliminacion.png?raw=true)]()
 3.
+[![Fotografía del Volcán Cumbre Vieja](https://github.com/mauricioreyes87/docs/blob/main/img/act4-cvs.png?raw=true)]()
 4.
+[![Fotografía del Volcán Cumbre Vieja](https://github.com/mauricioreyes87/docs/blob/main/img/act4-cvs.png?raw=true)]()
 5.
+[![Fotografía del Volcán Cumbre Vieja](https://github.com/mauricioreyes87/docs/blob/main/img/act4-cvs.png?raw=true)]()
 6.
+[![Fotografía del Volcán Cumbre Vieja](https://github.com/mauricioreyes87/docs/blob/main/img/act4-cvs.png?raw=true)]()
+7.
+[![Fotografía del Volcán Cumbre Vieja](https://github.com/mauricioreyes87/docs/blob/main/img/act4-cvs.png?raw=true)]()
+
+
 
 En un análisis de los datos se proyecto tambien limitar el conjunto de datos solo a aquellos sismos que ocurieron en la Isla Palma para focalizar el desarrollo de estos eventos. Este procedimiento se realizó a través de EXCEL con el uso de funsiones para la clasificación por localización y la clasificación por rangos.
 
