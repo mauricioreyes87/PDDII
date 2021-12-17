@@ -145,7 +145,7 @@ En EXCEL tambien se realizarón algunas operaciones basicas que permitieron enco
 - Media de magnitud
 - Media de profundidad
 
-[![Fotografía del Volcán Cumbre Vieja](https://github.com/mauricioreyes87/docs/blob/main/img/act4-operaciones.png?raw=true)]()
+[![Fotografía del Volcán Cumbre Vieja](https://github.com/mauricioreyes87/docs/blob/main/img/act4-operacions.png?raw=true)]()
 
 ## Visualización de datos con Datawrapper.
 
