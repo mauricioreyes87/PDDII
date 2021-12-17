@@ -84,9 +84,13 @@ Reyes, J. M. (2021, 31 octubre). Terremotos - Área del volcán Cumbre Vieja - 2
 
 ## Selección fuente de información
 
-La información seleccionada se obtubo del Instituto Geográfico Nacional - Organismo Autónomo y Centro de Nacional de Información Geográfica el cual diariamente actualiza en su web (Nacional, 2021). los terremotos próximos significativos del último año. Estos terremotos se ubican en la peninsula iberica e Islas Canaria en los últimos 12 meses.
+La información seleccionada se obtubo del Instituto Geográfico Nacional - Organismo Autónomo y Centro de Nacional de Información Geográfica el cual diariamente actualiza en su web (Nacional, 2021). los terremotos próximos significativos del último año. Estos terremotos se ubican en la peninsula iberica e Islas Canarias en los últimos 12 meses.
+
+[![Fotografía del Volcán Cumbre Vieja](https://github.com/mauricioreyes87/docs/blob/main/img/act-ign.png?raw=true)]()
 
 ## Elección o creación de un conjunto de datos
+
+[![Fotografía del Volcán Cumbre Vieja](https://github.com/mauricioreyes87/docs/blob/main/img/act4-ign.png?raw=true)]()
 
 Los datos fueron obtenidos a traves de la web mediante la extensión de Mozilla - Table Capture, la cual reconoce las tablas dentro de una web y a partir de ellas es posible crear un archivo csv para su posterior análisis y limpieza.
 
