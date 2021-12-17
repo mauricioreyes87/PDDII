@@ -119,9 +119,9 @@ Esta variables fueron obtenidas a traves de las siguentes acciones realizadas en
 [![Fotografía del Volcán Cumbre Vieja](https://github.com/mauricioreyes87/docs/blob/main/img/act4-open2.png?raw=true)]()
 5. Eliminación de la columna Fecha2 1 y Fecha
 [![Fotografía del Volcán Cumbre Vieja](https://github.com/mauricioreyes87/docs/blob/main/img/act4-open3.png?raw=true)]()
-6.Uninión de la columna Fecha1 y la columna Fecha2 1
+6. Uninión de la columna Fecha1 y la columna Fecha2 1
 [![Fotografía del Volcán Cumbre Vieja](https://github.com/mauricioreyes87/docs/blob/main/img/act4-open4.png?raw=true)]()
-7.Eliminación de la Columna Fecha2 2
+7. Eliminación de la Columna Fecha2 2
 [![Fotografía del Volcán Cumbre Vieja](https://github.com/mauricioreyes87/docs/blob/main/img/act4-open5.png?raw=true)]()
 8. Unión de las columnas Fecha1 y Evento
 [![Fotografía del Volcán Cumbre Vieja](https://github.com/mauricioreyes87/docs/blob/main/img/act4-open6.png?raw=true)]()
